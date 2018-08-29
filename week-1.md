@@ -2,7 +2,7 @@
 > x dagen gewerkt
 
 ## Werkzaamheden
-\<Fill inn\>
+\<Fill in\>
 
 ## Terugblik
 \<Fill in\>

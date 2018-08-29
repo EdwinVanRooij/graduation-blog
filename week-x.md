@@ -2,16 +2,16 @@
 > x dagen gewerkt
 
 ## Werkzaamheden
-<Fill in>
+\<Fill in\>
 
 ## Terugblik
-<Fill in>
+\<Fill in\>
 
 ## Reflectie
-<Fill in>
+\<Fill in\>
 
 ## Vooruitblik
-<Fill in>
+\<Fill in\>
 
 ## Opmerking(en)
-<Fill in>
+\<Fill in\>
