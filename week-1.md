@@ -1,17 +1,22 @@
-# Week x 
-> x dagen gewerkt
+# Week 1
+> 4
 
 ## Werkzaamheden
-\<Vul in\>
+- Kennismaking met het bedrijf
+- Software installatie
+- Blog opzetten
+- Belangrijke info/deadlines verzamelne
+- Vooronderzoek voorafgaand aan projectplan maken
+- Vooronderzoek uitvoeren
 
 ## Terugblik
-\<Vul in\>
+N.v.t. - nog geen vooruitblik gehad.
 
 ## Reflectie
-\<Vul in\>
+Ik denk dat ik een goede basis heb gelegd voor het maken van het projectplan de komende weken.
 
 ## Vooruitblik
-\<Vul in\>
+De komende weken ga ik aan de slag met mijn projectplan. Daarnaast wil ik verder met meer begripvorming over microservices.
 
 ### Opmerking(en)
 \-
