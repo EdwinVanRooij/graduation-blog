@@ -1,5 +1,5 @@
 # Week 1
-> 4
+> 4 dagen gewerkt
 
 ## Werkzaamheden
 - Kennismaking met het bedrijf
