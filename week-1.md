@@ -13,7 +13,7 @@
 N.v.t. - nog geen vooruitblik gehad.
 
 ## Reflectie
-Ik denk dat ik een goede basis heb gelegd voor het maken van het projectplan de komende weken.
+Ik heb ik een goede basis gelegd voor het maken van het projectplan de komende weken.
 
 ## Vooruitblik
 De komende weken ga ik aan de slag met mijn projectplan. Daarnaast wil ik verder met meer begripvorming over microservices.
