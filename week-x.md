@@ -1,4 +1,4 @@
-# Week x 
+# Week x
 > x dagen gewerkt
 
 ## Werkzaamheden
