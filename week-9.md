@@ -1,5 +1,5 @@
 # Week 9
-> 9 dagen gewerkt
+> 5 dagen gewerkt
 
 ## Werkzaamheden
 - Security research
